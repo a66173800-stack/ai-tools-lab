@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a66173800-stack.github.io/ai-tools-lab/sitemap.xml
