@@ -11,3 +11,28 @@
 @media(max-width:600px){
 .wrap{width:calc(100% - 32px)}.mast{padding:18px 0}.mast nav{gap:8px 18px;margin-top:12px}.mast nav a{min-height:40px;display:inline-flex;align-items:center;font-size:13px}.brand small{font-size:9px;letter-spacing:.04em}
 .new-hero{padding:24px 0 32px;gap:20px}.new-hero h1{font-size:36px;line-height:1.45;margin:12px 0 18px}.hero-copy{font-size:16px;line-height:1.85}.idea-board{display:none}.actions{margin-top:20px;width:100%;gap:12px}.cta-primary{min-height:50px;padding:14px 18px;line-height:1.5}.actions .cta-primary{width:100%}.text-link{padding:8px 0}.trust-strip{display:none}.section{padding:28px 0}.section h2,.related h2{font-size:23px}.purpose-grid,.guide-grid{gap:12px}.purpose,.guide-card{padding:20px}.purpose p,.guide-card p{font-size:15px;line-height:1.8}.feature-new .feature-art{display:none}.feature-new .feature-body{padding:22px}.feature-body h2{font-size:25px}.category-row a{font-size:14px;padding:15px}.guide-hero{padding:22px 0}.guide-hero h1{font-size:30px}.guide-summary{display:none}.reading{margin:0 auto 32px}.reading p,.reading li,.prose p,.prose li{font-size:16px;line-height:1.85}.reading h2{font-size:23px;line-height:1.6;margin-top:30px}.reading nav{gap:8px 16px;padding:14px}.reading nav a{padding:5px 0}.conversion-box{padding:22px}.conversion-box>a{min-height:48px;display:block;text-align:center}.mobile-guide{position:static;margin:20px 0;padding:14px;border:1px solid #ced9c7;border-radius:6px;box-shadow:none}.guide-main{padding-bottom:20px}footer nav{gap:8px 18px}footer nav a{padding:8px 0}table{min-width:560px}th,td{font-size:14px}.ad-note{font-size:13px;margin-top:16px}.brief-form input,.brief-form select,.brief-form textarea{font-size:16px}}
+
+
+/* YorisuGuri renewal: navy and white visual system, November 2026 */
+:root{--yn-navy:#10243d;--yn-deep:#0a192c;--yn-blue:#24537b;--yn-gold:#b18b53;--yn-paper:#ffffff;--yn-soft:#f3f6fa;--yn-ink:#17283e}
+body{background:var(--yn-soft);color:var(--yn-ink)}
+a{color:var(--yn-blue)}a:hover{color:#8b6536}
+.mast{border-bottom-color:#dce4ed}.brand{color:var(--yn-navy)}.brand small{color:#65758b}
+.kicker,.eyebrow{color:#977344}.new-hero em,.guide-hero em{color:var(--yn-blue)}
+.hero-copy,.lead{color:#52647a}.ad-note,.small-note{color:#66788b}
+.cta-primary,.button,.conversion-box>a,.mobile-guide a{background:var(--yn-navy);color:#fff}
+.cta-primary:hover,.button:hover{background:var(--yn-blue);color:#fff}
+.purpose,.guide-card,.card,.feature,.brief-form{background:#fff;border-color:#dbe3ed;color:var(--yn-ink)}
+.purpose:hover,.guide-card:hover,.card:hover{border-color:var(--yn-blue)}
+.purpose-icon,.guide-summary,.reading nav,.note,.next-step{background:#e8eef6;color:var(--yn-navy)}
+.purpose>span,.read-link{color:var(--yn-blue)}
+.idea-board,.trust-strip,.conversion-box{background:#e7edf5;border-color:#d4deea}
+.feature-new .feature-art,footer{background:var(--yn-navy);color:#fff}
+.feature-new .feature-body{background:#fff}
+.feature-art small{color:#c9d6e7}
+.section,.related,.reading h2,.prose h2{border-color:#dce4ed}
+th{background:#e9eff7}td,th{border-color:#dce4ed}
+footer a{color:#e4edf8}
+.mobile-guide{background:#fff;border-color:#dce4ed}
+:focus-visible{outline-color:var(--yn-gold)}
+@media(max-width:600px){.new-hero h1{font-size:clamp(30px,9vw,38px)}.mast nav a{color:var(--yn-navy)}}
