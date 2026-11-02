@@ -30,7 +30,7 @@ for name,page in pages.items():
   elif u.fragment and target in pages and unquote(u.fragment) not in pages[target].ids:errors.append(f'{name}: missing fragment {link}')
  text=(root/name).read_text()
  for data in __import__('re').findall(r'<script type="application/ld\+json">(.*?)</script>',text):json.loads(data)
- if len(sys.argv)>1:
+ if len(sys.argv)>1 and subprocess.run(['git','cat-file','-e',sys.argv[1]+':'+name],cwd=root,stderr=subprocess.DEVNULL).returncode==0:
   old=subprocess.check_output(['git','show',sys.argv[1]+':'+name],cwd=root,text=True)
   before=Page(old)
   if Counter(before.ads)!=Counter(page.ads):errors.append(f'{name}: advertisement code changed')
