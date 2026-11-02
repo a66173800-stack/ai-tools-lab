@@ -110,3 +110,23 @@ footer a{color:#e4edf8}
 .topic-shortcuts{gap:8px}.topic-shortcuts a{font-size:13px}
 }
 @media(prefers-reduced-motion:reduce){.discover-card{transition:none}.discover-card:hover{transform:none}}
+
+/* Warm editorial palette and lightweight topic illustrations. */
+:root{--yn-navy:#304b3e;--yn-deep:#253b30;--yn-blue:#3f6551;--yn-gold:#aa744f;--yn-paper:#fff;--yn-soft:#f7f5ed;--yn-ink:#333b33}
+body{background:var(--yn-soft);color:var(--yn-ink)}
+.mast{border-color:#dfdfd2}.brand small,.hero-copy,.lead,.small-note,.ad-note,.discover-card p,.purpose p,.guide-card p,.card p,.discover-heading p{color:#596555}
+.kicker,.eyebrow,.topic-label{color:#825b3e}
+.purpose,.guide-card,.card,.discover-card,.article-search,.practical-example,.prose>nav[aria-label*="目次"]{border-color:#dedfd3;border-radius:16px}
+.discover-card{color:var(--yn-ink);box-shadow:0 5px 20px #394a3210}.discover-card:hover{border-color:#6c856b;color:var(--yn-ink);box-shadow:0 10px 24px #394a3218}
+.purpose-icon,.guide-summary,.reading nav,.note,.next-step,.label,.conversion-box,.trust-strip{background:#e8ecdf;color:#304b3e;border-color:#d5ddcb}
+.practical-example blockquote{background:#f4f5ed;border-color:#5d795f}
+th{background:#e9ecdf}td,th,.reading h2,.prose h2,.discover-link{border-color:#dedfd3}
+.feature-new .feature-art,footer{background:#304b3e}.feature-art small,footer a{color:#edf0df}
+.hero-visual{min-width:0}.editorial-photo{margin:0;position:relative}.editorial-photo img{display:block;width:100%;height:auto;aspect-ratio:3/2;object-fit:cover;border-radius:24px 24px 72px 24px;box-shadow:0 12px 36px #384a3414}
+.editorial-photo figcaption{font-size:11px;color:#596555;margin-top:12px}.hero-visual .idea-board{display:none}
+.discover-art.illustrated{padding:0;min-height:0;background:#e9eadf}.discover-art.illustrated:after{display:none}.discover-art img{display:block;width:100%;height:auto;aspect-ratio:21/13;object-fit:cover}
+.discover-link{color:#3f6551}.article-search input,.brief-form input,.brief-form select,.brief-form textarea{color:#333b33;border-color:#a8b39e}
+.action-panel{border-color:#dedfd3;border-top-color:#ba4528}.action-panel p,.intro-action small,.action-panel small{color:#596555}
+.table-scroll{max-width:100%;overflow-x:auto}
+@media(max-width:800px){.new-hero{gap:28px}.hero-visual{max-width:560px;width:100%;margin:auto}.editorial-photo img{border-radius:20px 20px 48px 20px}}
+@media(max-width:600px){.discover-card{display:flex;flex-direction:column}.discover-art img{max-height:180px;object-fit:cover}.discover-copy{padding:20px}.editorial-photo figcaption{font-size:10px}.new-hero{padding-top:18px}.quick-action>span{color:#596555}.prose .discover-art img{max-height:150px}}
