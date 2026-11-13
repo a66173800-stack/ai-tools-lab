@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Noto+Sans+JP:wght@400;500;600;700&display=swap');
+:root{--rose:#a16e7e;--ink:#382e32;--paper:#fcfaf8}
+body{background:var(--paper)!important;color:var(--ink)!important;font-family:'DM Sans','Noto Sans JP',-apple-system,BlinkMacSystemFont,sans-serif!important;line-height:1.95}
+header{background:#fffdfc!important;border-bottom:1px solid #eadfe2!important;color:#785d68!important;font-size:13px!important;font-weight:600!important;letter-spacing:.04em!important}
+header a{color:#8d6272!important;text-decoration:none!important}
+header a:hover{color:#6b4453!important}
+.hero{background:radial-gradient(circle at 18% 10%,#fffdfb,#f5e9e8)!important}
+.hero .eyebrow,.hero .small{color:#a16e7e!important;letter-spacing:.09em}
+h1{color:#3e3037!important;font-family:Georgia,'Hiragino Mincho ProN','Yu Mincho',serif!important;font-weight:500!important;letter-spacing:.012em!important}
+h2{color:#493840!important;border-left-color:#cda6b1!important;letter-spacing:.01em!important}
+h3{color:#4b3942!important}
+.photo{box-shadow:0 13px 38px rgba(106,67,79,.10);border-radius:12px!important}
+.note,.card{border-color:#e8d9df!important;border-radius:10px!important;background:#fff!important}
+.note strong{color:#9d6277}
+a{color:#9d6479}
+a.btn,.btn{background:#98677a!important;color:#fff!important;border-radius:5px!important}
+a.btn:hover,.btn:hover{background:#85576a!important}
+footer{background:#f8f2f0!important;border-top:1px solid #eadfe2!important;color:#7c6870!important;font-size:12px!important}
+table th{background:#f7eff0}
+@media(max-width:700px){.hero{padding-top:50px!important;padding-bottom:45px!important}h1{font-size:clamp(29px,6vw,42px)!important}header{font-size:12px!important}}
