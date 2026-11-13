@@ -1,0 +1,29 @@
+name: Export BEAUTY EDIT for standalone GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'yorisuguri/beauty/**'
+      - 'scripts/export_beauty_site.py'
+      - '.github/workflows/export-beauty-site.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out site files
+        uses: actions/checkout@v4
+      - name: Verify and export BEAUTY EDIT
+        run: python3 scripts/export_beauty_site.py
+      - name: Upload independent-site ZIP
+        uses: actions/upload-artifact@v4
+        with:
+          name: beauty-site-ready
+          path: dist/beauty-site-ready.zip
+          if-no-files-found: error
+          retention-days: 30
