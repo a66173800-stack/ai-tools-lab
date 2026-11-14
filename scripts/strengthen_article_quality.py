@@ -181,6 +181,8 @@ def update_href(old: str, current_path: str) -> str:
     stem, qsep, query = stem.partition("?")
     if not stem: return u
     target = posixpath.normpath(posixpath.join(posixpath.dirname(current_path),stem))
+    if target == "yorisuguri/beauty":
+        return BEAUTY + (qsep + query if qsep else "") + (sep + tail if sep else "")
     if target.startswith("yorisuguri/beauty/"):
         dest = target[len("yorisuguri/beauty/"):]
         if stem.endswith("/") and not dest.endswith("/"): dest += "/"
@@ -264,7 +266,7 @@ def report_entry(path: str, content: str, files: set[str]) -> dict:
     images=re.findall(r"<img\b[^>]*>",content,re.I|re.S)
     missing_alt=[x for x in images if not re.search(r"\balt\s*=",x,re.I)]
     affiliate=bool(re.search(r"https?://px\.a8\.net|a8mat=",content,re.I))
-    disclosed=bool(re.search(r"PR[：·]|アフィリエイト広告|広告[｜：]",clean_text(content[:max(1000,len(content)//3)]),re.I))
+    disclosed=bool(re.search(r"PR[：·]|アフィリエイト広告|広告[｜：]",clean_text(content[:max(2400,len(content)//2)]),re.I))
     urls=[]
     for u in re.findall(r'href=["\']([^"\']+)["\']',content,re.I):
         if u.startswith("#") or urlsplit(u).scheme or u.startswith("//") or u.startswith("mailto:"): continue
@@ -285,7 +287,7 @@ def main()->None:
     cli.add_argument("--audit",action="store_true")
     args=cli.parse_args()
     paths=sorted(p for p in ROOT.rglob("*.html") if ".git" not in p.parts and "dist" not in p.parts)
-    names={p.relative_to(ROOT).as_posix() for p in paths}
+    names={p.relative_to(ROOT).as_posix() for p in ROOT.rglob("*") if p.is_file() and ".git" not in p.parts and "dist" not in p.parts}
     rows=[]
     revised=[]
     for f in paths:
@@ -311,6 +313,9 @@ def main()->None:
             # Update genuine cross-site navigation on hub pages; do not change old root
             # noindex redirect or legal/utility content.
             if name in INFORMATIONAL:
+                if name == "yorisuguri/beauty/index.html":
+                    s = re.sub(r'(<link\b[^>]*rel=["\']canonical["\'][^>]*href=["\'])[^"\']+',r'\g<1>'+BEAUTY,s,flags=re.I)
+                    s = s.replace(DOMAIN+"yorisuguri/beauty/",BEAUTY)
                 def href_change(m:re.Match[str])->str:
                     return m.group(1)+update_href(m.group(2),name)+m.group(3)
                 s=re.sub(r'(href=["\'])([^"\']+)(["\'])',href_change,s)
