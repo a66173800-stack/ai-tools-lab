@@ -1,0 +1,45 @@
+name: Review and strengthen existing articles
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/strengthen_article_quality.py'
+      - '.github/workflows/strengthen-articles.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out full website
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Run conservative editorial and SEO pass
+        run: python3 scripts/strengthen_article_quality.py --apply
+      - name: Check resulting local files
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          r=json.loads(Path("reports/article-quality-audit.json").read_text())
+          assert r["articleCount"] >= 50, "Unexpectedly few articles; review needed"
+          assert not r["missingAlt"], "Missing image alt text; review needed"
+          print("Checked",r["articleCount"],"articles")
+          print("Potential relative links to review:", len(r["possibleBrokenRelativeLinks"]))
+          PY
+      - name: Save checked enhancements
+        run: |
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+          git add -A -- '*.html' 'reports/article-quality-audit.json'
+          if ! git diff --cached --quiet; then
+            git commit -m "Review article SEO metadata, canonical links and useful reading paths"
+            git push
+          else
+            echo "No article changes needed"
+          fi
