@@ -1,0 +1,1655 @@
+{
+  "site": "main",
+  "totalHtml": 91,
+  "articleCount": 75,
+  "changed": [
+    "coconala-brief-writing.html",
+    "coconala-commercial-rights.html",
+    "coconala-compare-quotes.html",
+    "coconala-consultation-guide.html",
+    "coconala-cost-check.html",
+    "coconala-deadline-planning.html",
+    "coconala-delivery-check.html",
+    "coconala-first-order.html",
+    "coconala-illustration-guide.html",
+    "coconala-logo-guide.html",
+    "coconala-print-design-guide.html",
+    "coconala-revision-request.html",
+    "coconala-seller-check.html",
+    "coconala-sns-icon-guide.html",
+    "coconala-thumbnail-guide.html",
+    "coconala-trouble-prevention.html",
+    "coconala-video-guide.html",
+    "coconala-web-guide.html",
+    "coconala-website-mistakes.html",
+    "coconala-writing-guide.html",
+    "hosting.html",
+    "logo-quote-comparison.html",
+    "logo-request.html",
+    "request-template.html",
+    "website-request.html",
+    "yorisuguri/beauty/articles/aging-care.html",
+    "yorisuguri/beauty/articles/beauty-clinic-salon.html",
+    "yorisuguri/beauty/articles/beauty-device-guide.html",
+    "yorisuguri/beauty/articles/beauty-myths.html",
+    "yorisuguri/beauty/articles/bodycare-guide.html",
+    "yorisuguri/beauty/articles/cosmetic-comparison.html",
+    "yorisuguri/beauty/articles/cosmetic-ingredients.html",
+    "yorisuguri/beauty/articles/fragrance-guide.html",
+    "yorisuguri/beauty/articles/haircare-routine.html",
+    "yorisuguri/beauty/articles/inner-beauty.html",
+    "yorisuguri/beauty/articles/makeup-basics.html",
+    "yorisuguri/beauty/articles/mens-beauty.html",
+    "yorisuguri/beauty/articles/nailcare-basics.html",
+    "yorisuguri/beauty/articles/oralcare-guide.html",
+    "yorisuguri/beauty/articles/seasonal-skincare.html",
+    "yorisuguri/beauty/articles/skincare-basics.html",
+    "yorisuguri/beauty/articles/styling-guide.html",
+    "yorisuguri/beauty/articles/sunscreen-uv.html",
+    "yorisuguri/beauty/index.html",
+    "yorisuguri/beauty/nail-salon/index.html",
+    "yorisuguri/beauty/nail-salon-style.html",
+    "yorisuguri/business-card-cost.html",
+    "yorisuguri/business-card-design.html",
+    "yorisuguri/business-card-first.html",
+    "yorisuguri/business-card-online-vs-shop.html",
+    "yorisuguri/business-card-opening.html",
+    "yorisuguri/business-card-qr-proof.html",
+    "yorisuguri/compare-web-estimates.html",
+    "yorisuguri/cooking/cutting-board-guide.html",
+    "yorisuguri/cooking/dont-wash-raw-chicken.html",
+    "yorisuguri/cooking/egg-expiration-safety.html",
+    "yorisuguri/cooking/food-safety-guide.html",
+    "yorisuguri/cooking/frying-pan-guide.html",
+    "yorisuguri/cooking/kitchen-sponge-replacement.html",
+    "yorisuguri/cooking/knife-care.html",
+    "yorisuguri/cooking/knife-guide.html",
+    "yorisuguri/cooking/meat-tray-disposal-safety.html",
+    "yorisuguri/cooking/mushrooms-wash-guide.html",
+    "yorisuguri/cooking/onion-sweetness-science.html",
+    "yorisuguri/cooking/pot-guide.html",
+    "yorisuguri/cooking/vegetable-guide.html",
+    "yorisuguri/goope-small-shop-website.html",
+    "yorisuguri/holiday-hours-check.html",
+    "yorisuguri/logo-delivery-formats.html",
+    "yorisuguri/moneyforward-tax-return.html",
+    "yorisuguri/sakupeji-checklist.html",
+    "yorisuguri/salon-reservation-buffer.html",
+    "yorisuguri/work/index.html",
+    "yorisuguri/work/nail-salon-beauty-feature.html",
+    "yorisuguri/work/nail-salon-growth.html",
+    "yorisuguri/work/nail-salon-guide.html",
+    "yorisuguri/work/nail-salon-new-owner.html",
+    "yorisuguri/work/nail-salon-opening.html"
+  ],
+  "missingDescription": [
+    "google2b664ac5bafbff25.html",
+    "index.html",
+    "rede-hairdry-guide.html"
+  ],
+  "affiliatePagesWithoutEarlyDisclosure": [
+    "coconala-brief-writing.html",
+    "coconala-commercial-rights.html",
+    "coconala-compare-quotes.html",
+    "coconala-consultation-guide.html",
+    "coconala-cost-check.html",
+    "coconala-deadline-planning.html",
+    "coconala-revision-request.html",
+    "coconala-seller-check.html",
+    "coconala-trouble-prevention.html",
+    "hosting.html",
+    "yorisuguri/business-card-qr-proof.html",
+    "yorisuguri/cooking/knife-care.html",
+    "yorisuguri/cooking/knife-guide.html",
+    "yorisuguri/goope-small-shop-website.html",
+    "yorisuguri/moneyforward-tax-return.html"
+  ],
+  "missingAlt": [],
+  "possibleBrokenRelativeLinks": [
+    {
+      "path": "about.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "categories.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "choosing.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-brief-writing.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-commercial-rights.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-compare-quotes.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-consultation-guide.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-cost-check.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-deadline-planning.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-delivery-check.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-first-order.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-home.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-illustration-guide.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-logo-guide.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-print-design-guide.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-revision-request.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-seller-check.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-sns-icon-guide.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-thumbnail-guide.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-trouble-prevention.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-video-guide.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-web-guide.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-website-mistakes.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala-writing-guide.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "coconala.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "contact.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "disclosure.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "hosting.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "logo-quote-comparison.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "logo-request.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "privacy.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "request-template.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "website-request.html",
+      "links": [
+        "style.css?v=20261102-warm"
+      ]
+    },
+    {
+      "path": "yorisuguri/cooking/dont-wash-raw-chicken.html",
+      "links": [
+        "article-style.css"
+      ]
+    },
+    {
+      "path": "yorisuguri/cooking/egg-expiration-safety.html",
+      "links": [
+        "article-style.css"
+      ]
+    },
+    {
+      "path": "yorisuguri/cooking/kitchen-sponge-replacement.html",
+      "links": [
+        "article-style.css"
+      ]
+    },
+    {
+      "path": "yorisuguri/cooking/meat-tray-disposal-safety.html",
+      "links": [
+        "article-style.css"
+      ]
+    },
+    {
+      "path": "yorisuguri/cooking/mushrooms-wash-guide.html",
+      "links": [
+        "article-style.css"
+      ]
+    },
+    {
+      "path": "yorisuguri/cooking/onion-sweetness-science.html",
+      "links": [
+        "article-style.css"
+      ]
+    },
+    {
+      "path": "yorisuguri/index.html",
+      "links": [
+        "../../coconala.html"
+      ]
+    },
+    {
+      "path": "yorisuguri/work/index.html",
+      "links": [
+        "assets/salon-style.css"
+      ]
+    },
+    {
+      "path": "yorisuguri/work/nail-salon-growth.html",
+      "links": [
+        "assets/salon-article.css"
+      ]
+    },
+    {
+      "path": "yorisuguri/work/nail-salon-guide.html",
+      "links": [
+        "assets/salon-style.css"
+      ]
+    },
+    {
+      "path": "yorisuguri/work/nail-salon-new-owner.html",
+      "links": [
+        "assets/salon-article.css"
+      ]
+    },
+    {
+      "path": "yorisuguri/work/nail-salon-opening.html",
+      "links": [
+        "assets/salon-article.css"
+      ]
+    }
+  ],
+  "pages": [
+    {
+      "path": "about.html",
+      "title": "運営者情報｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 610,
+      "canonical": "https://yorisuguri-note.com/about.html"
+    },
+    {
+      "path": "categories.html",
+      "title": "カテゴリから探す｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 12,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1869,
+      "canonical": "https://yorisuguri-note.com/categories.html"
+    },
+    {
+      "path": "choosing.html",
+      "title": "買う・契約する前に整理したい5つの条件｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 897,
+      "canonical": "https://yorisuguri-note.com/choosing.html"
+    },
+    {
+      "path": "coconala-brief-writing.html",
+      "title": "ココナラの依頼文、どう書く？そのまま使える例文｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1429,
+      "canonical": "https://yorisuguri-note.com/coconala-brief-writing.html"
+    },
+    {
+      "path": "coconala-commercial-rights.html",
+      "title": "ココナラの商用利用・著作権を依頼前に確認する方法｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1419,
+      "canonical": "https://yorisuguri-note.com/coconala-commercial-rights.html"
+    },
+    {
+      "path": "coconala-compare-quotes.html",
+      "title": "ココナラの見積もり、どこを見る？比較チェック表｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1246,
+      "canonical": "https://yorisuguri-note.com/coconala-compare-quotes.html"
+    },
+    {
+      "path": "coconala-consultation-guide.html",
+      "title": "ココナラの見積もり相談で伝えるべきこと｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1376,
+      "canonical": "https://yorisuguri-note.com/coconala-consultation-guide.html"
+    },
+    {
+      "path": "coconala-cost-check.html",
+      "title": "ココナラはいくらかかる？追加料金と見積もりの見方｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1718,
+      "canonical": "https://yorisuguri-note.com/coconala-cost-check.html"
+    },
+    {
+      "path": "coconala-deadline-planning.html",
+      "title": "ココナラの納期トラブルを防ぐ依頼スケジュールの作り方｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1270,
+      "canonical": "https://yorisuguri-note.com/coconala-deadline-planning.html"
+    },
+    {
+      "path": "coconala-delivery-check.html",
+      "title": "制作物の納品チェックと修正依頼の伝え方｜確認表・例文つき｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 2358,
+      "canonical": "https://yorisuguri-note.com/coconala-delivery-check.html"
+    },
+    {
+      "path": "coconala-first-order.html",
+      "title": "ココナラの頼み方｜初めてでも迷わない6ステップ｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1476,
+      "canonical": "https://yorisuguri-note.com/coconala-first-order.html"
+    },
+    {
+      "path": "coconala-home.html",
+      "title": "ココナラの使い方・制作依頼ガイド｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 15,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 2282,
+      "canonical": "https://a66173800-stack.github.io/ai-tools-lab/"
+    },
+    {
+      "path": "coconala-illustration-guide.html",
+      "title": "ココナラでイラストを依頼する方法｜用途と権利｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1491,
+      "canonical": "https://yorisuguri-note.com/coconala-illustration-guide.html"
+    },
+    {
+      "path": "coconala-logo-guide.html",
+      "title": "ココナラでロゴを依頼する方法｜納品形式と商用利用｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1588,
+      "canonical": "https://yorisuguri-note.com/coconala-logo-guide.html"
+    },
+    {
+      "path": "coconala-print-design-guide.html",
+      "title": "チラシ・名刺を依頼する前に｜原稿・印刷・見積もりの準備｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 2,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 2203,
+      "canonical": "https://yorisuguri-note.com/coconala-print-design-guide.html"
+    },
+    {
+      "path": "coconala-revision-request.html",
+      "title": "ココナラで修正をお願いする伝え方｜角が立たない例文｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1249,
+      "canonical": "https://yorisuguri-note.com/coconala-revision-request.html"
+    },
+    {
+      "path": "coconala-seller-check.html",
+      "title": "ココナラの出品者の選び方｜依頼前に確認したい8項目｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1643,
+      "canonical": "https://yorisuguri-note.com/coconala-seller-check.html"
+    },
+    {
+      "path": "coconala-sns-icon-guide.html",
+      "title": "SNSアイコンを依頼する前に｜絵柄・料金・使える範囲の選び方｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 2,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 2080,
+      "canonical": "https://yorisuguri-note.com/coconala-sns-icon-guide.html"
+    },
+    {
+      "path": "coconala-thumbnail-guide.html",
+      "title": "YouTubeサムネイルを依頼する方法｜素材・文字・修正の伝え方｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 2,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 2140,
+      "canonical": "https://yorisuguri-note.com/coconala-thumbnail-guide.html"
+    },
+    {
+      "path": "coconala-trouble-prevention.html",
+      "title": "ココナラの依頼でトラブルを防ぐ確認事項｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1388,
+      "canonical": "https://yorisuguri-note.com/coconala-trouble-prevention.html"
+    },
+    {
+      "path": "coconala-video-guide.html",
+      "title": "ココナラで動画編集を依頼する際のチェック項目｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1463,
+      "canonical": "https://yorisuguri-note.com/coconala-video-guide.html"
+    },
+    {
+      "path": "coconala-web-guide.html",
+      "title": "ココナラでホームページ制作を頼む前の準備｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1563,
+      "canonical": "https://yorisuguri-note.com/coconala-web-guide.html"
+    },
+    {
+      "path": "coconala-website-mistakes.html",
+      "title": "ホームページ制作依頼でよくある失敗7選と防ぎ方｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 2431,
+      "canonical": "https://yorisuguri-note.com/coconala-website-mistakes.html"
+    },
+    {
+      "path": "coconala-writing-guide.html",
+      "title": "ココナラで記事作成を依頼するときの注意点｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1411,
+      "canonical": "https://yorisuguri-note.com/coconala-writing-guide.html"
+    },
+    {
+      "path": "coconala.html",
+      "title": "ココナラとは？初めての制作依頼と選び方ガイド｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 4,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 2872,
+      "canonical": "https://yorisuguri-note.com/coconala.html"
+    },
+    {
+      "path": "contact.html",
+      "title": "お問い合わせ｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 516,
+      "canonical": "https://yorisuguri-note.com/contact.html"
+    },
+    {
+      "path": "disclosure.html",
+      "title": "広告掲載・編集方針｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 753,
+      "canonical": "https://yorisuguri-note.com/disclosure.html"
+    },
+    {
+      "path": "google2b664ac5bafbff25.html",
+      "title": "",
+      "hasDescription": false,
+      "h1Count": 0,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 53,
+      "canonical": null
+    },
+    {
+      "path": "hosting.html",
+      "title": "エックスサーバーとロリポップの選び方｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 2,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1308,
+      "canonical": "https://yorisuguri-note.com/hosting.html"
+    },
+    {
+      "path": "index.html",
+      "title": "ヨリスグリノート",
+      "hasDescription": false,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 71,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/"
+    },
+    {
+      "path": "logo-quote-comparison.html",
+      "title": "ロゴ制作の見積もり比較表｜安さだけで決めない7つのチェック項目｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 2903,
+      "canonical": "https://yorisuguri-note.com/logo-quote-comparison.html"
+    },
+    {
+      "path": "logo-request.html",
+      "title": "ロゴ制作の依頼で確認したい料金・修正・商用利用｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1640,
+      "canonical": "https://yorisuguri-note.com/logo-request.html"
+    },
+    {
+      "path": "privacy.html",
+      "title": "プライバシーポリシー｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1126,
+      "canonical": "https://yorisuguri-note.com/privacy.html"
+    },
+    {
+      "path": "rede-hairdry-guide.html",
+      "title": "Re・De Hairdry+の購入ガイド｜ヨリスグリノート",
+      "hasDescription": false,
+      "h1Count": 0,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 84,
+      "canonical": "https://yorisuguri-beauty.yuushi20040721.chatgpt.site/rede-hairdry-guide.html"
+    },
+    {
+      "path": "request-template.html",
+      "title": "制作依頼の伝え方と見積もり相談テンプレート｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1520,
+      "canonical": "https://yorisuguri-note.com/request-template.html"
+    },
+    {
+      "path": "website-request.html",
+      "title": "ホームページ制作を依頼する前に決めたい7つのこと｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [
+        "style.css?v=20261102-warm"
+      ],
+      "contentLength": 1730,
+      "canonical": "https://yorisuguri-note.com/website-request.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/aging-care.html",
+      "title": "エイジングケアは何歳から？優先順位の決め方｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1394,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/aging-care.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/beauty-clinic-salon.html",
+      "title": "美容医療・サロン選び｜契約前の確認事項｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1505,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-clinic-salon.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/beauty-device-guide.html",
+      "title": "美容家電の選び方｜買う前のチェックリスト｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1413,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-device-guide.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/beauty-myths.html",
+      "title": "美容の噂は本当？情報を見極める5つの視点｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1391,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/beauty-myths.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/bodycare-guide.html",
+      "title": "ボディケアの基本｜全身・手足の保湿｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1318,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/bodycare-guide.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/cosmetic-comparison.html",
+      "title": "化粧品比較で見るべき5つのポイント｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1352,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/cosmetic-comparison.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/cosmetic-ingredients.html",
+      "title": "レチノール・ビタミンC・セラミドを整理する｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1503,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/cosmetic-ingredients.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/fragrance-guide.html",
+      "title": "香水の選び方｜濃度・香り・使い方の基本｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1319,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/fragrance-guide.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/haircare-routine.html",
+      "title": "髪と頭皮のケア｜洗い方・乾かし方の基本｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1345,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/haircare-routine.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/inner-beauty.html",
+      "title": "美容と食生活｜栄養・睡眠・生活習慣の基本｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1381,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/inner-beauty.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/makeup-basics.html",
+      "title": "ベースメイクの基本｜下地・ファンデの選び方｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1376,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/makeup-basics.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/mens-beauty.html",
+      "title": "メンズ美容の始め方｜清潔感の整え方｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1298,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/mens-beauty.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/nailcare-basics.html",
+      "title": "セルフネイルと爪のケア｜傷めにくい基本｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1431,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/nailcare-basics.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/oralcare-guide.html",
+      "title": "オーラルケアの基本｜歯みがき・歯間清掃｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1331,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/oralcare-guide.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/seasonal-skincare.html",
+      "title": "春夏秋冬の美容ケア｜季節ごとの見直し方｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1294,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/seasonal-skincare.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/skincare-basics.html",
+      "title": "スキンケアの基本｜洗顔・保湿・順番を見直す｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1442,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/skincare-basics.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/styling-guide.html",
+      "title": "自分に似合う装いの考え方｜色・形・バランス｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1357,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/styling-guide.html"
+    },
+    {
+      "path": "yorisuguri/beauty/articles/sunscreen-uv.html",
+      "title": "日焼け止めの選び方｜SPF・PAの正しい見方｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1401,
+      "canonical": "https://beauty.yorisuguri-note.com/articles/sunscreen-uv.html"
+    },
+    {
+      "path": "yorisuguri/beauty/index.html",
+      "title": "BEAUTY EDIT｜スキンケア・メイク・ヘアケア・ネイルなど美容の総合ガイド",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 20,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 2324,
+      "canonical": "https://beauty.yorisuguri-note.com/"
+    },
+    {
+      "path": "yorisuguri/beauty/nail-salon/index.html",
+      "title": "ネイルサロン特集｜開業準備・サロンづくり・集客・経営｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1039,
+      "canonical": "https://beauty.yorisuguri-note.com/nail-salon/"
+    },
+    {
+      "path": "yorisuguri/beauty/nail-salon-style.html",
+      "title": "選ばれるネイルサロンのつくり方｜コンセプト・メニュー・写真・衛生管理｜BEAUTY EDIT",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1663,
+      "canonical": "https://beauty.yorisuguri-note.com/nail-salon-style.html"
+    },
+    {
+      "path": "yorisuguri/business-card-cost.html",
+      "title": "名刺100枚の費用相場は？価格の見方と比較ポイント｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 898,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/business-card-cost.html"
+    },
+    {
+      "path": "yorisuguri/business-card-design.html",
+      "title": "名刺デザインで失敗しない5つのポイント｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 885,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/business-card-design.html"
+    },
+    {
+      "path": "yorisuguri/business-card-first.html",
+      "title": "名刺を初めて作る人へ｜注文前に確認したいこと｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 935,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/business-card-first.html"
+    },
+    {
+      "path": "yorisuguri/business-card-online-vs-shop.html",
+      "title": "ネット印刷と店舗印刷の違い｜名刺はどちらで作る？｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 864,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/business-card-online-vs-shop.html"
+    },
+    {
+      "path": "yorisuguri/business-card-opening.html",
+      "title": "開業時に名刺は必要？お店を始める前の準備ガイド｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 876,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/business-card-opening.html"
+    },
+    {
+      "path": "yorisuguri/business-card-qr-proof.html",
+      "title": "名刺のQRコードを注文前にチェックする｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 755,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/business-card-qr-proof.html"
+    },
+    {
+      "path": "yorisuguri/compare-web-estimates.html",
+      "title": "ホームページ制作の見積もりを同じ条件で比べる｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 727,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/compare-web-estimates.html"
+    },
+    {
+      "path": "yorisuguri/cooking/cutting-board-guide.html",
+      "title": "まな板の選び方｜木・ゴム・樹脂の違いと衛生管理｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1540,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/cutting-board-guide.html"
+    },
+    {
+      "path": "yorisuguri/cooking/dont-wash-raw-chicken.html",
+      "title": "鶏肉は洗わないで！カンピロバクターと水しぶきの科学｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "article-style.css"
+      ],
+      "contentLength": 1881,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/dont-wash-raw-chicken.html"
+    },
+    {
+      "path": "yorisuguri/cooking/egg-expiration-safety.html",
+      "title": "卵の賞味期限切れは何日まで食べられる？保存と加熱の判断ポイント｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "article-style.css"
+      ],
+      "contentLength": 2293,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/egg-expiration-safety.html"
+    },
+    {
+      "path": "yorisuguri/cooking/food-safety-guide.html",
+      "title": "家庭の衛生管理 完全ガイド｜生肉トレー・まな板・保存・加熱｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 4059,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/food-safety-guide.html"
+    },
+    {
+      "path": "yorisuguri/cooking/frying-pan-guide.html",
+      "title": "フライパンの選び方｜初心者向けに鉄・ステンレス・フッ素樹脂を比較｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1868,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/frying-pan-guide.html"
+    },
+    {
+      "path": "yorisuguri/cooking/index.html",
+      "title": "料理の科学・栄養学・食材の選び方｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 6,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1830,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/"
+    },
+    {
+      "path": "yorisuguri/cooking/kitchen-sponge-replacement.html",
+      "title": "キッチンスポンジ、いつ交換する？菌が増える仕組みと毎日の洗い方｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "article-style.css"
+      ],
+      "contentLength": 1800,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/kitchen-sponge-replacement.html"
+    },
+    {
+      "path": "yorisuguri/cooking/knife-care.html",
+      "title": "ステンレス包丁も洗って乾かす。使ったあとの手入れを三手順に｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1261,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/knife-care.html"
+    },
+    {
+      "path": "yorisuguri/cooking/knife-guide.html",
+      "title": "包丁の選び方｜三徳・牛刀・素材・刃渡りを徹底解説｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 2,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 3314,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/knife-guide.html"
+    },
+    {
+      "path": "yorisuguri/cooking/meat-tray-disposal-safety.html",
+      "title": "生肉のトレー、洗ってから捨ててる？肉汁の衛生対策と正しい片付け｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "article-style.css"
+      ],
+      "contentLength": 1994,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/meat-tray-disposal-safety.html"
+    },
+    {
+      "path": "yorisuguri/cooking/mushrooms-wash-guide.html",
+      "title": "きのこは洗う？洗わない？しめじ・えのき・しいたけの下処理と栄養｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "article-style.css"
+      ],
+      "contentLength": 2299,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/mushrooms-wash-guide.html"
+    },
+    {
+      "path": "yorisuguri/cooking/onion-sweetness-science.html",
+      "title": "玉ねぎを炒めると、なぜ甘くなる？辛み・糖・メイラード反応を料理の科学で解説｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "article-style.css"
+      ],
+      "contentLength": 3396,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/onion-sweetness-science.html"
+    },
+    {
+      "path": "yorisuguri/cooking/pot-guide.html",
+      "title": "鍋の選び方｜ステンレス・アルミ・鋳鉄・土鍋の違い｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1623,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/pot-guide.html"
+    },
+    {
+      "path": "yorisuguri/cooking/vegetable-guide.html",
+      "title": "食材の目利き｜野菜編｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 5231,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/vegetable-guide.html"
+    },
+    {
+      "path": "yorisuguri/goope-small-shop-website.html",
+      "title": "お店のホームページ、自分で作る？頼む？選び方とグーペの確認点｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1711,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/goope-small-shop-website.html"
+    },
+    {
+      "path": "yorisuguri/holiday-hours-check.html",
+      "title": "祝日の営業時間を変えたら、地図・サイト・予約ページを3分で見直す｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 892,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/holiday-hours-check.html"
+    },
+    {
+      "path": "yorisuguri/index.html",
+      "title": "ヨリスグリノート｜料理の科学・美容・仕事とサロン開業",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 14,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "../../coconala.html"
+      ],
+      "contentLength": 836,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/"
+    },
+    {
+      "path": "yorisuguri/logo-delivery-formats.html",
+      "title": "ロゴを看板にもWebにも使うときの納品形式｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 648,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/logo-delivery-formats.html"
+    },
+    {
+      "path": "yorisuguri/moneyforward-tax-return.html",
+      "title": "開業後の帳簿づけ、何から始める？確定申告ソフトの選び方｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": true,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1503,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/moneyforward-tax-return.html"
+    },
+    {
+      "path": "yorisuguri/sakupeji-checklist.html",
+      "title": "サクペジを検討する前に確認したい費用・納期・更新｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 0,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1100,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/sakupeji-checklist.html"
+    },
+    {
+      "path": "yorisuguri/salon-reservation-buffer.html",
+      "title": "「60分メニュー」なのに予約が押す。ひとりサロンの予約枠の作り方｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 846,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/salon-reservation-buffer.html"
+    },
+    {
+      "path": "yorisuguri/work/index.html",
+      "title": "サロン開業・経営の始め方｜ネイル・まつ毛・エステ｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 7,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "assets/salon-style.css"
+      ],
+      "contentLength": 2818,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/work/"
+    },
+    {
+      "path": "yorisuguri/work/nail-salon-beauty-feature.html",
+      "title": "選ばれるネイルサロンのつくり方｜コンセプト・内装・メニュー・衛生｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 2,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [],
+      "contentLength": 1311,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/work/nail-salon-beauty-feature.html"
+    },
+    {
+      "path": "yorisuguri/work/nail-salon-growth.html",
+      "title": "ネイルサロン経営の売上・リピート改善｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "assets/salon-article.css"
+      ],
+      "contentLength": 1400,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/work/nail-salon-growth.html"
+    },
+    {
+      "path": "yorisuguri/work/nail-salon-guide.html",
+      "title": "ネイルサロン開業・経営特集｜準備から予約・売上まで｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 3,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "assets/salon-style.css"
+      ],
+      "contentLength": 1217,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/work/nail-salon-guide.html"
+    },
+    {
+      "path": "yorisuguri/work/nail-salon-new-owner.html",
+      "title": "ネイルサロン開業直後の集客・予約管理｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 1,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "assets/salon-article.css"
+      ],
+      "contentLength": 1491,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/work/nail-salon-new-owner.html"
+    },
+    {
+      "path": "yorisuguri/work/nail-salon-opening.html",
+      "title": "ネイルサロン開業完全ガイド｜費用・設備・集客・名刺・看板・予約管理｜ヨリスグリノート",
+      "hasDescription": true,
+      "h1Count": 1,
+      "images": 2,
+      "imagesMissingAlt": 0,
+      "affiliate": false,
+      "earlyPrDisclosure": false,
+      "possibleBrokenRelativeLinks": [
+        "assets/salon-article.css"
+      ],
+      "contentLength": 2615,
+      "canonical": "https://yorisuguri-note.com/yorisuguri/work/nail-salon-opening.html"
+    }
+  ]
+}
