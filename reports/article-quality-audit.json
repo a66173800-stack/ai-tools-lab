@@ -3,31 +3,6 @@
   "totalHtml": 91,
   "articleCount": 75,
   "changed": [
-    "coconala-brief-writing.html",
-    "coconala-commercial-rights.html",
-    "coconala-compare-quotes.html",
-    "coconala-consultation-guide.html",
-    "coconala-cost-check.html",
-    "coconala-deadline-planning.html",
-    "coconala-delivery-check.html",
-    "coconala-first-order.html",
-    "coconala-illustration-guide.html",
-    "coconala-logo-guide.html",
-    "coconala-print-design-guide.html",
-    "coconala-revision-request.html",
-    "coconala-seller-check.html",
-    "coconala-sns-icon-guide.html",
-    "coconala-thumbnail-guide.html",
-    "coconala-trouble-prevention.html",
-    "coconala-video-guide.html",
-    "coconala-web-guide.html",
-    "coconala-website-mistakes.html",
-    "coconala-writing-guide.html",
-    "hosting.html",
-    "logo-quote-comparison.html",
-    "logo-request.html",
-    "request-template.html",
-    "website-request.html",
     "yorisuguri/beauty/articles/aging-care.html",
     "yorisuguri/beauty/articles/beauty-clinic-salon.html",
     "yorisuguri/beauty/articles/beauty-device-guide.html",
@@ -48,39 +23,9 @@
     "yorisuguri/beauty/articles/sunscreen-uv.html",
     "yorisuguri/beauty/index.html",
     "yorisuguri/beauty/nail-salon/index.html",
-    "yorisuguri/beauty/nail-salon-style.html",
-    "yorisuguri/business-card-cost.html",
-    "yorisuguri/business-card-design.html",
-    "yorisuguri/business-card-first.html",
-    "yorisuguri/business-card-online-vs-shop.html",
-    "yorisuguri/business-card-opening.html",
-    "yorisuguri/business-card-qr-proof.html",
-    "yorisuguri/compare-web-estimates.html",
-    "yorisuguri/cooking/cutting-board-guide.html",
-    "yorisuguri/cooking/dont-wash-raw-chicken.html",
-    "yorisuguri/cooking/egg-expiration-safety.html",
-    "yorisuguri/cooking/food-safety-guide.html",
-    "yorisuguri/cooking/frying-pan-guide.html",
-    "yorisuguri/cooking/kitchen-sponge-replacement.html",
-    "yorisuguri/cooking/knife-care.html",
-    "yorisuguri/cooking/knife-guide.html",
-    "yorisuguri/cooking/meat-tray-disposal-safety.html",
-    "yorisuguri/cooking/mushrooms-wash-guide.html",
-    "yorisuguri/cooking/onion-sweetness-science.html",
-    "yorisuguri/cooking/pot-guide.html",
-    "yorisuguri/cooking/vegetable-guide.html",
-    "yorisuguri/goope-small-shop-website.html",
-    "yorisuguri/holiday-hours-check.html",
-    "yorisuguri/logo-delivery-formats.html",
-    "yorisuguri/moneyforward-tax-return.html",
-    "yorisuguri/sakupeji-checklist.html",
-    "yorisuguri/salon-reservation-buffer.html",
+    "yorisuguri/index.html",
     "yorisuguri/work/index.html",
-    "yorisuguri/work/nail-salon-beauty-feature.html",
-    "yorisuguri/work/nail-salon-growth.html",
-    "yorisuguri/work/nail-salon-guide.html",
-    "yorisuguri/work/nail-salon-new-owner.html",
-    "yorisuguri/work/nail-salon-opening.html"
+    "yorisuguri/work/nail-salon-guide.html"
   ],
   "missingDescription": [
     "google2b664ac5bafbff25.html",
@@ -88,17 +33,8 @@
     "rede-hairdry-guide.html"
   ],
   "affiliatePagesWithoutEarlyDisclosure": [
-    "coconala-brief-writing.html",
-    "coconala-commercial-rights.html",
-    "coconala-compare-quotes.html",
-    "coconala-consultation-guide.html",
     "coconala-cost-check.html",
-    "coconala-deadline-planning.html",
-    "coconala-revision-request.html",
     "coconala-seller-check.html",
-    "coconala-trouble-prevention.html",
-    "hosting.html",
-    "yorisuguri/business-card-qr-proof.html",
     "yorisuguri/cooking/knife-care.html",
     "yorisuguri/cooking/knife-guide.html",
     "yorisuguri/goope-small-shop-website.html",
@@ -107,273 +43,9 @@
   "missingAlt": [],
   "possibleBrokenRelativeLinks": [
     {
-      "path": "about.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "categories.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "choosing.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-brief-writing.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-commercial-rights.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-compare-quotes.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-consultation-guide.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-cost-check.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-deadline-planning.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-delivery-check.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-first-order.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-home.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-illustration-guide.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-logo-guide.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-print-design-guide.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-revision-request.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-seller-check.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-sns-icon-guide.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-thumbnail-guide.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-trouble-prevention.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-video-guide.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-web-guide.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-website-mistakes.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala-writing-guide.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "coconala.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "contact.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "disclosure.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "hosting.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "logo-quote-comparison.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "logo-request.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "privacy.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "request-template.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "website-request.html",
-      "links": [
-        "style.css?v=20261102-warm"
-      ]
-    },
-    {
-      "path": "yorisuguri/cooking/dont-wash-raw-chicken.html",
-      "links": [
-        "article-style.css"
-      ]
-    },
-    {
-      "path": "yorisuguri/cooking/egg-expiration-safety.html",
-      "links": [
-        "article-style.css"
-      ]
-    },
-    {
-      "path": "yorisuguri/cooking/kitchen-sponge-replacement.html",
-      "links": [
-        "article-style.css"
-      ]
-    },
-    {
-      "path": "yorisuguri/cooking/meat-tray-disposal-safety.html",
-      "links": [
-        "article-style.css"
-      ]
-    },
-    {
-      "path": "yorisuguri/cooking/mushrooms-wash-guide.html",
-      "links": [
-        "article-style.css"
-      ]
-    },
-    {
-      "path": "yorisuguri/cooking/onion-sweetness-science.html",
-      "links": [
-        "article-style.css"
-      ]
-    },
-    {
       "path": "yorisuguri/index.html",
       "links": [
         "../../coconala.html"
-      ]
-    },
-    {
-      "path": "yorisuguri/work/index.html",
-      "links": [
-        "assets/salon-style.css"
-      ]
-    },
-    {
-      "path": "yorisuguri/work/nail-salon-growth.html",
-      "links": [
-        "assets/salon-article.css"
-      ]
-    },
-    {
-      "path": "yorisuguri/work/nail-salon-guide.html",
-      "links": [
-        "assets/salon-style.css"
-      ]
-    },
-    {
-      "path": "yorisuguri/work/nail-salon-new-owner.html",
-      "links": [
-        "assets/salon-article.css"
-      ]
-    },
-    {
-      "path": "yorisuguri/work/nail-salon-opening.html",
-      "links": [
-        "assets/salon-article.css"
       ]
     }
   ],
@@ -387,9 +59,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 610,
       "canonical": "https://yorisuguri-note.com/about.html"
     },
@@ -402,9 +72,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1869,
       "canonical": "https://yorisuguri-note.com/categories.html"
     },
@@ -417,9 +85,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 897,
       "canonical": "https://yorisuguri-note.com/choosing.html"
     },
@@ -431,10 +97,8 @@
       "images": 0,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1429,
       "canonical": "https://yorisuguri-note.com/coconala-brief-writing.html"
     },
@@ -446,10 +110,8 @@
       "images": 0,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1419,
       "canonical": "https://yorisuguri-note.com/coconala-commercial-rights.html"
     },
@@ -461,10 +123,8 @@
       "images": 0,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1246,
       "canonical": "https://yorisuguri-note.com/coconala-compare-quotes.html"
     },
@@ -476,10 +136,8 @@
       "images": 3,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1376,
       "canonical": "https://yorisuguri-note.com/coconala-consultation-guide.html"
     },
@@ -492,9 +150,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1718,
       "canonical": "https://yorisuguri-note.com/coconala-cost-check.html"
     },
@@ -506,10 +162,8 @@
       "images": 0,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1270,
       "canonical": "https://yorisuguri-note.com/coconala-deadline-planning.html"
     },
@@ -522,9 +176,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2358,
       "canonical": "https://yorisuguri-note.com/coconala-delivery-check.html"
     },
@@ -537,9 +189,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1476,
       "canonical": "https://yorisuguri-note.com/coconala-first-order.html"
     },
@@ -552,9 +202,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2282,
       "canonical": "https://a66173800-stack.github.io/ai-tools-lab/"
     },
@@ -567,9 +215,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1491,
       "canonical": "https://yorisuguri-note.com/coconala-illustration-guide.html"
     },
@@ -582,9 +228,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1588,
       "canonical": "https://yorisuguri-note.com/coconala-logo-guide.html"
     },
@@ -597,9 +241,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2203,
       "canonical": "https://yorisuguri-note.com/coconala-print-design-guide.html"
     },
@@ -611,10 +253,8 @@
       "images": 0,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1249,
       "canonical": "https://yorisuguri-note.com/coconala-revision-request.html"
     },
@@ -627,9 +267,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1643,
       "canonical": "https://yorisuguri-note.com/coconala-seller-check.html"
     },
@@ -642,9 +280,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2080,
       "canonical": "https://yorisuguri-note.com/coconala-sns-icon-guide.html"
     },
@@ -657,9 +293,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2140,
       "canonical": "https://yorisuguri-note.com/coconala-thumbnail-guide.html"
     },
@@ -671,10 +305,8 @@
       "images": 3,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1388,
       "canonical": "https://yorisuguri-note.com/coconala-trouble-prevention.html"
     },
@@ -687,9 +319,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1463,
       "canonical": "https://yorisuguri-note.com/coconala-video-guide.html"
     },
@@ -702,9 +332,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1563,
       "canonical": "https://yorisuguri-note.com/coconala-web-guide.html"
     },
@@ -717,9 +345,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2431,
       "canonical": "https://yorisuguri-note.com/coconala-website-mistakes.html"
     },
@@ -732,9 +358,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1411,
       "canonical": "https://yorisuguri-note.com/coconala-writing-guide.html"
     },
@@ -747,9 +371,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2872,
       "canonical": "https://yorisuguri-note.com/coconala.html"
     },
@@ -762,9 +384,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 516,
       "canonical": "https://yorisuguri-note.com/contact.html"
     },
@@ -776,10 +396,8 @@
       "images": 0,
       "imagesMissingAlt": 0,
       "affiliate": false,
-      "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 753,
       "canonical": "https://yorisuguri-note.com/disclosure.html"
     },
@@ -804,10 +422,8 @@
       "images": 2,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1308,
       "canonical": "https://yorisuguri-note.com/hosting.html"
     },
@@ -833,9 +449,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2903,
       "canonical": "https://yorisuguri-note.com/logo-quote-comparison.html"
     },
@@ -848,9 +462,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1640,
       "canonical": "https://yorisuguri-note.com/logo-request.html"
     },
@@ -862,10 +474,8 @@
       "images": 0,
       "imagesMissingAlt": 0,
       "affiliate": false,
-      "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "earlyPrDisclosure": true,
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1126,
       "canonical": "https://yorisuguri-note.com/privacy.html"
     },
@@ -891,9 +501,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1520,
       "canonical": "https://yorisuguri-note.com/request-template.html"
     },
@@ -906,9 +514,7 @@
       "imagesMissingAlt": 0,
       "affiliate": true,
       "earlyPrDisclosure": true,
-      "possibleBrokenRelativeLinks": [
-        "style.css?v=20261102-warm"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1730,
       "canonical": "https://yorisuguri-note.com/website-request.html"
     },
@@ -1258,7 +864,7 @@
       "images": 1,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
+      "earlyPrDisclosure": true,
       "possibleBrokenRelativeLinks": [],
       "contentLength": 755,
       "canonical": "https://yorisuguri-note.com/yorisuguri/business-card-qr-proof.html"
@@ -1298,9 +904,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "article-style.css"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1881,
       "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/dont-wash-raw-chicken.html"
     },
@@ -1313,9 +917,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "article-style.css"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2293,
       "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/egg-expiration-safety.html"
     },
@@ -1367,9 +969,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "article-style.css"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1800,
       "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/kitchen-sponge-replacement.html"
     },
@@ -1408,9 +1008,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "article-style.css"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1994,
       "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/meat-tray-disposal-safety.html"
     },
@@ -1423,9 +1021,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "article-style.css"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2299,
       "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/mushrooms-wash-guide.html"
     },
@@ -1438,9 +1034,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "article-style.css"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 3396,
       "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/onion-sweetness-science.html"
     },
@@ -1572,9 +1166,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "assets/salon-style.css"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2818,
       "canonical": "https://yorisuguri-note.com/yorisuguri/work/"
     },
@@ -1600,9 +1192,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "assets/salon-article.css"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1400,
       "canonical": "https://yorisuguri-note.com/yorisuguri/work/nail-salon-growth.html"
     },
@@ -1615,9 +1205,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "assets/salon-style.css"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1217,
       "canonical": "https://yorisuguri-note.com/yorisuguri/work/nail-salon-guide.html"
     },
@@ -1630,9 +1218,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "assets/salon-article.css"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 1491,
       "canonical": "https://yorisuguri-note.com/yorisuguri/work/nail-salon-new-owner.html"
     },
@@ -1645,9 +1231,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "assets/salon-article.css"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 2615,
       "canonical": "https://yorisuguri-note.com/yorisuguri/work/nail-salon-opening.html"
     }
