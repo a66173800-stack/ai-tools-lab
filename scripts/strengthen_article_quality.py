@@ -305,6 +305,23 @@ def main()->None:
                 return m.group(1)+update_href(m.group(2),name)+m.group(3)
             s=re.sub(r'(href=["\'])([^"\']+)(["\'])',href_change,s)
             s=head_meta(s,canonical_url(name))
+            if re.search(r"https?://px\\.a8\\.net|a8mat=",s,re.I):
+                # Label sponsored links, leaving original tracking URLs untouched.
+                def sponsored(m:re.Match[str])->str:
+                    tag=m.group(0)
+                    if not re.search(r"https?://px\\.a8\\.net|a8mat=",tag,re.I):return tag
+                    match=re.search(r'\\brel=["\\']([^"\\']*)["\\']',tag,re.I)
+                    if match:
+                        values=match.group(1).split()
+                        for val in ("sponsored","nofollow"):
+                            if val not in values:values.append(val)
+                        return tag[:match.start()]+('rel="'+ " ".join(values) +'"')+tag[match.end():]
+                    return tag[:-1]+' rel="sponsored nofollow">'
+                s=re.sub(r'<a\\b[^>]*>',sponsored,s,flags=re.I)
+                excerpt=clean_text(s[s.find("<body"):][:2400]) if "<body" in s else ""
+                if not re.search(r'PR[：·]|アフィリエイト広告|広告[｜：]',excerpt) and 'data-yorisuguri-quality="ad-disclosure"' not in s:
+                    disclosure=('<p data-yorisuguri-quality="ad-disclosure" style="max-width:830px;margin:16px auto 8px;padding:0 18px;color:#726e68;font-size:12px">広告：この記事にはアフィリエイト広告が含まれます。掲載内容は読者の判断に役立つ情報を優先しています。</p>')
+                    s=re.sub(r'(<main\\b[^>]*>)',lambda m:m.group(1)+disclosure,s,count=1,flags=re.I)
             s=practical_step(s,name,names)
             if STANDALONE_BEAUTY:
                 # Only after an actual content edit, update article dateModified (datePublished unchanged)
