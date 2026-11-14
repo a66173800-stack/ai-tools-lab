@@ -3,29 +3,11 @@
   "totalHtml": 91,
   "articleCount": 75,
   "changed": [
-    "yorisuguri/beauty/articles/aging-care.html",
-    "yorisuguri/beauty/articles/beauty-clinic-salon.html",
-    "yorisuguri/beauty/articles/beauty-device-guide.html",
-    "yorisuguri/beauty/articles/beauty-myths.html",
-    "yorisuguri/beauty/articles/bodycare-guide.html",
-    "yorisuguri/beauty/articles/cosmetic-comparison.html",
-    "yorisuguri/beauty/articles/cosmetic-ingredients.html",
-    "yorisuguri/beauty/articles/fragrance-guide.html",
-    "yorisuguri/beauty/articles/haircare-routine.html",
-    "yorisuguri/beauty/articles/inner-beauty.html",
-    "yorisuguri/beauty/articles/makeup-basics.html",
-    "yorisuguri/beauty/articles/mens-beauty.html",
-    "yorisuguri/beauty/articles/nailcare-basics.html",
-    "yorisuguri/beauty/articles/oralcare-guide.html",
-    "yorisuguri/beauty/articles/seasonal-skincare.html",
-    "yorisuguri/beauty/articles/skincare-basics.html",
-    "yorisuguri/beauty/articles/styling-guide.html",
-    "yorisuguri/beauty/articles/sunscreen-uv.html",
-    "yorisuguri/beauty/index.html",
-    "yorisuguri/beauty/nail-salon/index.html",
-    "yorisuguri/index.html",
-    "yorisuguri/work/index.html",
-    "yorisuguri/work/nail-salon-guide.html"
+    "coconala-cost-check.html",
+    "coconala-seller-check.html",
+    "yorisuguri/business-card-qr-proof.html",
+    "yorisuguri/cooking/knife-care.html",
+    "yorisuguri/cooking/knife-guide.html"
   ],
   "missingDescription": [
     "google2b664ac5bafbff25.html",
@@ -33,10 +15,7 @@
     "rede-hairdry-guide.html"
   ],
   "affiliatePagesWithoutEarlyDisclosure": [
-    "coconala-cost-check.html",
-    "coconala-seller-check.html",
     "yorisuguri/cooking/knife-care.html",
-    "yorisuguri/cooking/knife-guide.html",
     "yorisuguri/goope-small-shop-website.html",
     "yorisuguri/moneyforward-tax-return.html"
   ],
@@ -149,9 +128,9 @@
       "images": 3,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
+      "earlyPrDisclosure": true,
       "possibleBrokenRelativeLinks": [],
-      "contentLength": 1718,
+      "contentLength": 1769,
       "canonical": "https://yorisuguri-note.com/coconala-cost-check.html"
     },
     {
@@ -266,9 +245,9 @@
       "images": 3,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
+      "earlyPrDisclosure": true,
       "possibleBrokenRelativeLinks": [],
-      "contentLength": 1643,
+      "contentLength": 1694,
       "canonical": "https://yorisuguri-note.com/coconala-seller-check.html"
     },
     {
@@ -983,7 +962,7 @@
       "affiliate": true,
       "earlyPrDisclosure": false,
       "possibleBrokenRelativeLinks": [],
-      "contentLength": 1261,
+      "contentLength": 1312,
       "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/knife-care.html"
     },
     {
@@ -994,9 +973,9 @@
       "images": 2,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
+      "earlyPrDisclosure": true,
       "possibleBrokenRelativeLinks": [],
-      "contentLength": 3314,
+      "contentLength": 3365,
       "canonical": "https://yorisuguri-note.com/yorisuguri/cooking/knife-guide.html"
     },
     {
