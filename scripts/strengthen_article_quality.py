@@ -148,6 +148,9 @@ def clean_text(raw: str) -> str:
 def article(path: str) -> bool:
     if STANDALONE_BEAUTY:
         return path.startswith("articles/") and path.endswith(".html") or path == "nail-salon-style.html"
+    # Legacy beauty paths are redirect-only; the standalone beauty repo owns editorial pages.
+    if path.startswith("yorisuguri/beauty/"):
+        return False
     if path in NON_ARTICLES or path in INFORMATIONAL:
         return False
     if not path.endswith(".html") or path.startswith("scripts/"):
