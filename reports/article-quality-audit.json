@@ -2,32 +2,17 @@
   "site": "main",
   "totalHtml": 91,
   "articleCount": 75,
-  "changed": [
-    "coconala-cost-check.html",
-    "coconala-seller-check.html",
-    "yorisuguri/business-card-qr-proof.html",
-    "yorisuguri/cooking/knife-care.html",
-    "yorisuguri/cooking/knife-guide.html"
-  ],
+  "changed": [],
   "missingDescription": [
     "google2b664ac5bafbff25.html",
     "index.html",
     "rede-hairdry-guide.html"
   ],
   "affiliatePagesWithoutEarlyDisclosure": [
-    "yorisuguri/cooking/knife-care.html",
-    "yorisuguri/goope-small-shop-website.html",
-    "yorisuguri/moneyforward-tax-return.html"
+    "yorisuguri/cooking/knife-care.html"
   ],
   "missingAlt": [],
-  "possibleBrokenRelativeLinks": [
-    {
-      "path": "yorisuguri/index.html",
-      "links": [
-        "../../coconala.html"
-      ]
-    }
-  ],
+  "possibleBrokenRelativeLinks": [],
   "pages": [
     {
       "path": "about.html",
@@ -395,7 +380,7 @@
     },
     {
       "path": "hosting.html",
-      "title": "エックスサーバーとロリポップの選び方｜ヨリスグリノート",
+      "title": "エックスサーバーとロリポップはどっち？料金・WordPress・サポート比較｜ヨリスグリノート",
       "hasDescription": true,
       "h1Count": 1,
       "images": 2,
@@ -403,7 +388,7 @@
       "affiliate": true,
       "earlyPrDisclosure": true,
       "possibleBrokenRelativeLinks": [],
-      "contentLength": 1308,
+      "contentLength": 1995,
       "canonical": "https://yorisuguri-note.com/hosting.html"
     },
     {
@@ -1051,9 +1036,9 @@
       "images": 1,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
+      "earlyPrDisclosure": true,
       "possibleBrokenRelativeLinks": [],
-      "contentLength": 1711,
+      "contentLength": 1766,
       "canonical": "https://yorisuguri-note.com/yorisuguri/goope-small-shop-website.html"
     },
     {
@@ -1078,9 +1063,7 @@
       "imagesMissingAlt": 0,
       "affiliate": false,
       "earlyPrDisclosure": false,
-      "possibleBrokenRelativeLinks": [
-        "../../coconala.html"
-      ],
+      "possibleBrokenRelativeLinks": [],
       "contentLength": 836,
       "canonical": "https://yorisuguri-note.com/yorisuguri/"
     },
@@ -1105,9 +1088,9 @@
       "images": 1,
       "imagesMissingAlt": 0,
       "affiliate": true,
-      "earlyPrDisclosure": false,
+      "earlyPrDisclosure": true,
       "possibleBrokenRelativeLinks": [],
-      "contentLength": 1503,
+      "contentLength": 1558,
       "canonical": "https://yorisuguri-note.com/yorisuguri/moneyforward-tax-return.html"
     },
     {
@@ -1172,7 +1155,7 @@
       "affiliate": false,
       "earlyPrDisclosure": false,
       "possibleBrokenRelativeLinks": [],
-      "contentLength": 1400,
+      "contentLength": 1490,
       "canonical": "https://yorisuguri-note.com/yorisuguri/work/nail-salon-growth.html"
     },
     {
@@ -1211,7 +1194,7 @@
       "affiliate": false,
       "earlyPrDisclosure": false,
       "possibleBrokenRelativeLinks": [],
-      "contentLength": 2615,
+      "contentLength": 3059,
       "canonical": "https://yorisuguri-note.com/yorisuguri/work/nail-salon-opening.html"
     }
   ]
