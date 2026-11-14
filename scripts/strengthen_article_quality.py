@@ -272,8 +272,12 @@ def report_entry(path: str, content: str, files: set[str]) -> dict:
         if u.startswith("#") or urlsplit(u).scheme or u.startswith("//") or u.startswith("mailto:"): continue
         clean=u.split("?")[0].split("#")[0]
         if not clean: continue
-        resolved=posixpath.normpath(posixpath.join(posixpath.dirname(path),clean))
-        if clean.endswith("/"):resolved=resolved.rstrip("/")+"/index.html"
+        if clean.startswith("/"):
+            resolved=posixpath.normpath(clean.lstrip("/") + ("index.html" if clean.endswith("/") else ""))
+        elif clean.endswith("/"):
+            resolved=posixpath.normpath(posixpath.join(posixpath.dirname(path),clean,"index.html"))
+        else:
+            resolved=posixpath.normpath(posixpath.join(posixpath.dirname(path),clean))
         if resolved not in files:urls.append(u)
     return {"path":path,"title":title,"hasDescription":bool(desc),"h1Count":len(h1),
             "images":len(images),"imagesMissingAlt":len(missing_alt),
